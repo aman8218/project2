@@ -1,5 +1,3 @@
 # New project
 
-This project was created from local system.
-
-created by aman.
+This project was created from local system created by aman.
